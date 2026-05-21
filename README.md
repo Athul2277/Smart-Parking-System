@@ -70,13 +70,25 @@ Vehicle Detection → Arduino Processing → Gate Control → LCD Status Update
 
 **Project Progress**
 50% Prototype Development
+
+
 <img width="545" height="469" alt="image" src="https://github.com/user-attachments/assets/5a6eb923-c719-4799-9b80-a77ac4a55e45" />
 
+
+
 90% System Integration
+
+
 <img width="543" height="559" alt="image" src="https://github.com/user-attachments/assets/c1200e9e-3b51-4a8f-8380-27e2a4687f4c" />
 
+
+
 100% Final Working Model
+
+
 <img width="1008" height="661" alt="image" src="https://github.com/user-attachments/assets/d743902a-7409-45c8-832b-ead97690ebd1" />
+
+
 
 **Conclusion**
 This project demonstrates how embedded systems and automation can be used to build a smart parking solution for modern urban environments. The system improves parking management efficiency through real-time monitoring and automated control.
